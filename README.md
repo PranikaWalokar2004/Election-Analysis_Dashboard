@@ -4,7 +4,7 @@
 The project includes four interactive dashboards that provide deep insights into national, state, and constituency-level election outcomes, helping stakeholders understand voting patterns and electoral performance with clarity.
 
 📊 Project Overview
-*The dashboard covers:
+* The dashboard covers:
 1️⃣ Overview Analysis
 - National-level seat distribution
 - Alliance performance (NDA, I.N.D.I.A, Others)
