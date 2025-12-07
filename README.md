@@ -86,3 +86,8 @@ Page 4
 Page 5
 ![page5el](https://github.com/user-attachments/assets/c4dd5258-0272-449a-9122-58011a109671)
 
+📧 Contact
+- Pranika Walokar
+- Data Analyst
+- 📩 Email: pranikawalokar@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/pranika-prashant-walokar-6890a4252
