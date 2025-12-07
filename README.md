@@ -5,7 +5,7 @@ The project includes four interactive dashboards that provide deep insights into
 
 📊 Project Overview
 * The dashboard covers:
-* 1️⃣ Overview Analysis
+  1️⃣ Overview Analysis
 - National-level seat distribution
 - Alliance performance (NDA, I.N.D.I.A, Others)
 - Vote share metrics
